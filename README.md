@@ -12,7 +12,7 @@ Don't waste your time with compliance. Universal Bypass automatically skips anno
 1. Download (Universal Bypass v2 Mod)[https://github.com/5R33CH4/Universal-Bypass-v2-Mod/releases/download/2.0/Universal.Bypass.v2.mod.zip.
 2. Open chrome://extensions in a new tab.
 3. Enable "Developer mode" at the top-right.
-4. Drag "Universal Bypass for Chromium-based browsers.zip" into the extensions page.
+4. Drag "Universal-Bypass-v2-Mod.zip" into the extensions page.
 <br><br>
 
 For **Other Browsers** <br>
