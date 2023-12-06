@@ -1,5 +1,4 @@
 # Universal Bypass v2 Mod
-Universal Bypasser v2 - Mod Created by 5R33CH4 <br>
 Bypasses Linkvertise Links and various other Short Links <br>
 
 Don't waste your time with compliance. Universal Bypass automatically skips annoying link shorteners.<br> <br>
