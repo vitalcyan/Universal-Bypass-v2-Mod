@@ -9,7 +9,7 @@ Don't waste your time with compliance. Universal Bypass automatically skips anno
 ## How To Install
 
  For **Google Chrome** & **Brave**<br>
-1. Download (Universal Bypass v2 Mod)[https://github.com/5R33CH4/Universal-Bypass-v2-Mod/releases/download/v2.0/Universal-Bypass-v2-Mod.zip].
+1. Download [Universal Bypass v2 Mod](https://github.com/sr2echa/Universal-Bypass-v2-Mod/releases/download/v2.0/Universal-Bypass-v2-Mod.zip).
 2. Open chrome://extensions in a new tab.
 3. Enable "Developer mode" at the top-right.
 4. Drag "Universal-Bypass-v2-Mod.zip" into the extensions page.
@@ -20,7 +20,6 @@ Coming Soon !
 
 <br><br>
 
-## Can Be Ignored !!!
 --------------------------------------------------------------------------------------------
 ### Universal Bypasser - Original [The Non-Working Official Stuff ]
 
@@ -31,5 +30,4 @@ Coming Soon !
 - [Translate Universal Bypass on Crowdin](https://crowdin.com/project/bypass)
 - [Changelog](https://universal-bypass.org/changelog)
 
----------------------------------------------------------------------------------------------
 
